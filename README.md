@@ -2,10 +2,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/1b2b3195-2f68-41bb-bf2a-c5cf4bd6838f.svg)](https://wakatime.com/@1b2b3195-2f68-41bb-bf2a-c5cf4bd6838f)
 
-- 🔭 I’m currently working on [https://finbox.in/](https://finbox.in/) as a Data Scientist.
-- 💬 Ask me about Machine Learning, SQL, Python, AWS and credit risk.
-- 📫 How to reach me: [@uttkarshmishra](https://www.linkedin.com/in/uttkarshmishra) on LinkedIn
+- 🔭 I’m currently working as a Data Scientist.
+- 💬 Ask me about Machine Learning, SQL, Python, AWS, and credit risk.
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/uttkarshmishra) on LinkedIn.
+
+<!--
+**uttu-001/uttu-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
