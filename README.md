@@ -424,7 +424,7 @@ Personal Loan · Business Loan · Credit Card · Loan Against Property (LAP) · 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 🏅 Score |
 |-----------|----------------|---------|----------|
 | PG Diploma in Data Science | IIIT Bangalore | 2020–2021 | CGPA: 3.44/4.0 |
-| B.Tech in Computer Science | GLA University | 2015–2019 | CGPA: 7.49/10 |
+| B.Tech in Computer Science | GLA University | 2015–2019 | CGPA: 7.5/10 |
 
 ---
 
