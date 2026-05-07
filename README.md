@@ -446,6 +446,10 @@ uttkarsh = {
 }
 ```
 
+<div align="center">
+  <img src="assets/IQ_certificate.png" width="480" alt="IQ Certificate — Score 136" />
+</div>
+
 ---
 
 ## 📫 Let's Connect
